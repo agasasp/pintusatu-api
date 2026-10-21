@@ -287,3 +287,5 @@ Every endpoint returns a consistent JSON envelope:
 - **Passwords**: Salted hashing with `bcryptjs` (work factor 10).
 - **Zod Schema Validation**: Eliminates unexpected fields, ensures sanitization and type coercion.
 - **HMAC / SHA-512 Verification**: Midtrans callbacks are verified against the configured server key.
+#   p i n t u s a t u - a p i  
+ 
